@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@500;700;800&family=Zen+Kaku+Gothic+New:wght@400;500&display=swap");
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  font-family: "Zen Kaku Gothic New", sans-serif;
+}
+
+button:focus-visible {
+  outline: 2px solid #d4506a;
+  outline-offset: 2px;
+}

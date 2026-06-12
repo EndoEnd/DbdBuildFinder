@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+*.local
+.env
+# ZIPファイル（ダウンロード元）
+../stalklab-v0.2.zip
+stalklab-v0.2.zip
+*.zip
